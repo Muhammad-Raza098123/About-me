@@ -1,1 +1,10 @@
 # About-me
+I'm Raza Khoso, a Computer Science student at FAST-NUCES (National University of Computer and Emerging Sciences), Peshawar Campus. I'm passionate about building a strong, well-rounded foundation in both systems-level and application-level software development, with the long-term goal of becoming a versatile software engineer — someone equally comfortable writing efficient low-level code and designing user-facing applications that solve real problems.
+My career interests span low-level and systems development, including C programming, memory management, operating system fundamentals, and how software interacts with hardware, as well as high-level software engineering, where I focus on clean architecture, data structures and algorithms, and writing maintainable, scalable code. I'm also working toward web development, building functional and responsive applications, and application development, designing cross-platform tools that are practical and efficient.
+
+On the technical side, I'm working with C and C++ for low-level systems, operating systems, embedded, and performance-focused software, JavaScript and TypeScript for websites and web applications, React Native for cross-platform mobile development on Android and iOS, Node.js for backend and server-side development, SQL and PostgreSQL for database design and management, and Python for AI, automation, and data science.
+As a first-year CS student, I'm currently building core fundamentals in C programming, calculus, digital logic design, and computer architecture — the groundwork for everything that follows in systems and software engineering. I believe in learning by doing, and I regularly practice coding by hand to strengthen my understanding of logic and syntax before relying on tools, focusing on writing clean, well-documented code rather than just working code.
+
+I'm open to collaborating on projects, contributing to open-source work, and connecting with other developers and engineers, particularly in systems programming, web development, and software engineering.
+
+Contact: muhammadkhoso098123@gmail.com
