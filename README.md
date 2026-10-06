@@ -37,9 +37,6 @@ I'm actively developing personal and academic projects to apply what I'm learnin
 
 I'm open to collaborating on projects, contributing to open-source work, and connecting with other developers and engineers — particularly in systems programming, web development, and software engineering. If you're working on something interesting or looking for a motivated collaborator, feel free to reach out.
 
-##Copyright © 2026 Muhammad Raza. All rights reserved.
-This repository is provided for educational viewing. You may view and study the code, but modification, redistribution, or claiming the code as your own is not permitted without permission.
-
 ## Contact
 
 **Email:** muhammadkhoso098123@gmail.com
